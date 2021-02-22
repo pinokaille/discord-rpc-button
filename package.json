@@ -1,0 +1,19 @@
+{
+  "name": "discord-rpc-button",
+  "version": "1.0.0",
+  "description": "a simple discord rpc button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pinokaille",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "chalk-animation": "^1.6.0",
+    "colors": "^1.4.0",
+    "console-title": "^1.1.0",
+    "discord-rpc": "^3.1.4",
+    "figlet": "^1.5.0"
+  }
+}
